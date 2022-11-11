@@ -22,7 +22,7 @@
     "url": "$DHBW_VS_INTERNAL_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dhbw-vs-internal-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 2936,
     "timeMonth": 1987,
     "timeYear": 1987,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-11": 0
+    }
   },
   {
     "name": "DHBW VS External API",
