@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1783,
-    "timeDay": 1659,
-    "timeWeek": 1596,
-    "timeMonth": 1783,
-    "timeYear": 1783,
+    "time": 1746,
+    "timeDay": 1498,
+    "timeWeek": 1564,
+    "timeMonth": 1746,
+    "timeYear": 1746,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dhbw-vs-internal-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.89%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 1987,
     "timeDay": 1150,
     "timeWeek": 2936,
     "timeMonth": 1987,
     "timeYear": 1987,
     "dailyMinutesDown": {
-      "2022-11-11": 0
+      "2022-11-11": 19
     }
   },
   {
@@ -48,11 +48,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 971,
-    "timeDay": 798,
-    "timeWeek": 699,
-    "timeMonth": 971,
-    "timeYear": 971,
+    "time": 948,
+    "timeDay": 688,
+    "timeWeek": 683,
+    "timeMonth": 948,
+    "timeYear": 948,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "DHBW Rapla Website",
+    "url": "$DHBW_RAPLA_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "dhbw-rapla-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 577,
+    "timeDay": 577,
+    "timeWeek": 577,
+    "timeMonth": 577,
+    "timeYear": 577,
     "dailyMinutesDown": {}
   }
 ]
