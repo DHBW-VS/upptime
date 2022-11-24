@@ -4,19 +4,19 @@
     "url": "https://www.dhbw-vs.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dhbw-vs.de.ico",
     "slug": "dhbw-vs-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1777,
-    "timeDay": 1963,
-    "timeWeek": 1538,
-    "timeMonth": 1777,
-    "timeYear": 1777,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1761,
+    "timeDay": 1761,
+    "timeWeek": 1517,
+    "timeMonth": 1761,
+    "timeYear": 1761,
     "dailyMinutesDown": {
-      "2022-11-24": 0
+      "2022-11-24": 6
     }
   },
   {
