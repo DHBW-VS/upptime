@@ -4,11 +4,11 @@
     "url": "https://www.dhbw-vs.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dhbw-vs.de.ico",
     "slug": "dhbw-vs-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.84%",
     "time": 2165,
     "timeDay": 1284,
@@ -16,6 +16,7 @@
     "timeMonth": 2235,
     "timeYear": 2165,
     "dailyMinutesDown": {
+      "2023-01-25": 2,
       "2023-01-15": 198
     }
   },
@@ -24,10 +25,10 @@
     "url": "$DHBW_VS_INTERNAL_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dhbw-vs-internal-api",
-    "status": "up",
+    "status": "down",
     "uptime": "96.37%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "99.49%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "99.48%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "96.37%",
     "time": 1522,
@@ -36,7 +37,7 @@
     "timeMonth": 1727,
     "timeYear": 1522,
     "dailyMinutesDown": {
-      "2023-01-25": 19,
+      "2023-01-25": 20,
       "2023-01-24": 15,
       "2023-01-19": 17,
       "2023-01-15": 212,
@@ -51,11 +52,11 @@
     "url": "$DHBW_VS_EXTERNAL_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dhbw-vs-external-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.09%",
     "time": 925,
     "timeDay": 751,
@@ -63,6 +64,7 @@
     "timeMonth": 999,
     "timeYear": 925,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2023-01-15": 212,
       "2022-12-10": 540,
       "2022-12-09": 395
@@ -73,9 +75,9 @@
     "url": "$DHBW_RAPLA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dhbw-rapla-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -84,6 +86,8 @@
     "timeWeek": 826,
     "timeMonth": 1199,
     "timeYear": 1147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
