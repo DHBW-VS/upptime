@@ -4,10 +4,10 @@
     "url": "https://www.dhbw-vs.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dhbw-vs.de.ico",
     "slug": "dhbw-vs-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.82%",
     "time": 2147,
@@ -16,6 +16,7 @@
     "timeMonth": 2285,
     "timeYear": 2147,
     "dailyMinutesDown": {
+      "2023-02-02": 1,
       "2023-01-25": 38,
       "2023-01-15": 198
     }
@@ -25,9 +26,9 @@
     "url": "$DHBW_VS_INTERNAL_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dhbw-vs-internal-api",
-    "status": "up",
+    "status": "down",
     "uptime": "96.63%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "96.63%",
@@ -37,6 +38,7 @@
     "timeMonth": 1507,
     "timeYear": 1457,
     "dailyMinutesDown": {
+      "2023-02-02": 0,
       "2023-01-31": 15,
       "2023-01-25": 51,
       "2023-01-24": 15,
