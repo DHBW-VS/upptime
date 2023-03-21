@@ -20,8 +20,8 @@ sites:
     url: $DHBW_RAPLA_URL
     __dangerous__body_down_if_text_missing: 'Server running'
 
-assignees:
-  - robingenz
+# assignees:
+#  - robingenz
 
 status-website:
   baseUrl: /upptime
