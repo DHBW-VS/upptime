@@ -1,7 +1,7 @@
 url: $DHBW_RAPLA_URL
-status: down
-code: 503
-responseTime: 565
-lastUpdated: 2023-05-04T09:41:32.686Z
+status: up
+code: 200
+responseTime: 6467
+lastUpdated: 2023-05-04T09:47:56.424Z
 startTime: Fri Nov 11 2022 10:08:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
